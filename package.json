@@ -1,14 +1,14 @@
 {
-  "name": "git-fs",
+  "name": "git-reader",
   "description": "Git as a filesystem.",
-  "tags": ["git","vfs","howtonode"],
-  "version": "0.0.10",
-  "author": "Tim Caswell <tim@creationix.com>",
+  "tags": ["git","vfs","reader"],
+  "version": "0.0.1",
+  "author": "jKey Lu <jkeylu@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/creationix/node-git.git"
+    "url": "https://github.com/jkeylu/git-reader.git"
   },
-  "bugs": "http://github.com/creationix/node-git/issues",
+  "bugs": "https://github.com/jkeylu/git-reader/issues",
   "engines": ["node >= 0.2.0"],
-  "main": "lib/git-fs.js"
+  "main": "lib/git-reader.js"
 }
